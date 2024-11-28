@@ -36,7 +36,7 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
   <img align="center" alt="Lucas-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 
  🏆My progress... <br>
-  [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br> 
+  ![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23&theme=dark&border_radius=5)<br> 
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lsarai23&theme=dark&border_radius=5)
 
 
