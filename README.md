@@ -7,28 +7,28 @@ I'm Lucas Pires de Camargo Sarai, someone who loves teaching and learning. That'
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=donut)](https://github.com/Lsarai23/github-readme-stats)
   
   [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br>
-  -- Front-End: <br>
+  📲 Front-End: <br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  -- Data Analysis: <br>
+  📊 Data Analysis: <br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Lucas-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
           
-  -- Back-end: <br>
+  🖥️ Back-end: <br>
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />        
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Lucas-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
 
-  -- General Languages: <br>
+  📖 General Languages: <br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-  -- General Tools: <br>
+  🛠️ General Tools: <br>
   <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
