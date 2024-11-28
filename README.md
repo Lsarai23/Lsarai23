@@ -37,7 +37,8 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
 
  🏆My progress... <br>
   [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=compact)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lsarai23)
+
 
 <br>
 
