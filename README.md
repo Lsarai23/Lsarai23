@@ -39,7 +39,7 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
   ![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23&theme=highcontrast&border_radius=5)<br> 
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lsarai23&theme=highcontrast&border_radius=5)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=compact)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Lsarai23&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Lsarai23&theme=juicefresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
