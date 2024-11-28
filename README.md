@@ -4,7 +4,7 @@ I'm Lucas Pires de Camargo Sarai, someone who loves teaching and learning. That'
 - 👯 I’m looking to collaborate on projects with Data Analysis or Software Development
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/lucas-pires-de-camargo-sarai-9439432a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=donut)](https://github.com/Lsarai23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/Lsarai23/github-readme-stats)
   [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br>
   📲 Front-End: <br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
