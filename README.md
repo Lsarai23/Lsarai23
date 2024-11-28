@@ -6,7 +6,7 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
 <a href= "https://www.linkedin.com/in/lucas-pires-de-camargo-sarai-9439432a3/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_P_C_Sarai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
  <a href = "mailto:sarai.pc.lucas@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-sarai.pc.lucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
 </a><br> <br>
-  🏆Achievements! <br>
+  🏆My progress... <br>
   [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br> <br>
   📲 Front-End: <br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
