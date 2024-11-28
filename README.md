@@ -3,7 +3,7 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
 - 🔭 I'm pursuing a bachelor's degree in Computer Science, where I'm on the 4th semester (of 8).
 - 👯 I’m looking to collaborate on projects with Data Analysis or Software Development
 - 📫 How to reach me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_usuario-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_P_C_Sarai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  <a href = "mailto:sarai.pc.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
   [![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23)](https://github.com/Lsarai23/github-readme-stats)<br> <br>
   📲 Front-End: <br>
