@@ -46,8 +46,9 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
 
 <br>
 
+<div>
   📶Thanks! <a href="https://hits.sh/github.com/Lsarai23/"><img align="center" alt="Hits" src="https://hits.sh/github.com/Lsarai23.svg?label=Profile%20Views&logo=github"/></a>
-  
+</div>
           
   
           
