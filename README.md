@@ -35,6 +35,12 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 
+  🛠️ Operational Systems that I've used: <br>
+  <img align="center" alt="Lucas-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img align="center" alt="Lucas-Windows11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+  <img align="center" alt="Lucas-MacOS" height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+
+  
  🏆My progress... <br>
   ![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23&theme=highcontrast&border_radius=5)<br> 
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lsarai23&theme=highcontrast&border_radius=5)<br>
