@@ -31,6 +31,8 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
 
   📖 General Languages: <br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 
   🛠️ General Tools: <br>
   <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
