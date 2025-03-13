@@ -41,7 +41,7 @@ I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creatin
   <img align="center" alt="Lucas-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
           
 
-  🛠️ Operational Systems that I've used: <br>
+  🛠️ Operational Systems: <br>
   <img align="center" alt="Lucas-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="Lucas-Windows11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="center" alt="Lucas-MacOS" height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
