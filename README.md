@@ -1,69 +1,98 @@
-## Hi there 👋
-I'm Lucas Sarai, someone who loves teaching and learning. That's why I'm creating this public profile: to share experiences with others, in order to get more knowledge as well as I spread my experiences. As soon as possible, I gonna be publishing my projects here, so follow me to stay updated on all the latest news!  
-- 🔭 I'm pursuing a bachelor's degree in Computer Science, where I'm on the 8th semester (of 8).
-- 🤝 I’m looking to collaborate on projects with Data Analysis or Software Development
-- 📫 Contact me: <br>
-<a href= "https://www.linkedin.com/in/lucas-pires-de-camargo-sarai-9439432a3/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_P_C_Sarai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
- <a href = "mailto:sarai.pc.lucas@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-sarai.pc.lucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
-</a><br> <br>
+# Hi there! 👋 I'm Lucas Sarai
 
-  📲 Front-End: <br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Tailwind" height="30" width="110" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+💻 **Computer Science Student | Software Developer | Data Science & AI/ML Enthusiast**
 
-  📊 Data Analysis: <br>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Python-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Lucas-Python-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Lucas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Lucas-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-          
-  🖥️ Back-end: <br>
-  <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />        
+I'm a Computer Science undergraduate passionate about building software, exploring data, and applying Artificial Intelligence to solve real-world problems.
 
-  📖 General Languages: <br>
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
+I enjoy learning new technologies, sharing knowledge, and collaborating on projects that turn ideas into practical solutions. I'm particularly interested in **Software Development, Data Science, Machine Learning, and AI-driven applications**.
 
-  🛠️ General Tools: <br>
-  <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Lucas-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Lucas-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-          
+- 🎓 Pursuing a Bachelor's degree in Computer Science at Mackenzie Presbyterian University.
+- 🔭 Exploring Machine Learning, data-driven solutions, and software engineering.
+- 🤝 Open to collaborating on Software Development, Data Analysis, and AI/ML projects.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucas-pires-de-camargo-sarai-9439432a3/) or via [Email](mailto:sarai.pc.lucas@gmail.com).
 
-  🛠️ Operational Systems: <br>
-  <img align="center" alt="Lucas-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img align="center" alt="Lucas-Windows11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  <img align="center" alt="Lucas-MacOS" height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+Here are some of the areas I enjoy working on:
 
-  
- 🏆My progress... <br>
-  ![Lucas Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lsarai23&theme=highcontrast&border_radius=5)<br> 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Lsarai23&theme=dark)<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=compact&theme=gruvbox)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Lsarai23&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+- **AI & Machine Learning:** Building intelligent solutions using neural networks, embeddings, and graph-based learning.
+- **Software Engineering:** Developing applications, REST APIs, and backend services.
+- **Data Science & Analytics:** Exploring datasets, processing data, and extracting insights to support decision-making.
+---
 
+## 🚀 Featured Projects
 
+- [hackathon-Previsao-Climatica-de-Precipitacao-sobre-a-America-do-Sul
+](https://github.com/ViktorAlves/hackathon-Previsao-Climatica-de-Precipitacao-sobre-a-America-do-Sul) — Collaborative development of a deep learning model to forecast the next month's average daily precipitation across South America. Using Python, TensorFlow, and ConvLSTM neural networks, we learned spatial and temporal patterns from meteorological variables such as temperature, humidity, atmospheric pressure, and wind. Developed as part of the MackIA academic AI league for the INPE data challenge, with performance evaluated using Root Mean Squared Error (RMSE).
 
+- [Kairos: Explainable Job Opportunities Recommender System](https://kairos-kappa-nine.vercel.app/) - **Kairós — Knowledge Graph-Based Opportunity Recommendation System:** Development of an intelligent recommendation system that connects university students with relevant job opportunities based on their skills and competencies. The system combines small language models, the ESCO skills ontology, a Neo4j knowledge graph, and graph-based recommendation techniques. My main contribution was developing and training a Relational Graph Convolutional Network (R-GCN) using Python and PyTorch Geometric to learn graph representations and explore improved skill-based matching. The project focuses on explainable recommendations and reducing the mismatch between students' competencies and job requirements. 
 
-<br>
+---
 
-<div align="center">
-  📶Thanks! <a href="https://hits.sh/github.com/Lsarai23/"><img alt="Hits" src="https://hits.sh/github.com/Lsarai23.svg?label=Profile%20Views&logo=github"/></a>
-</div>
-          
-  
-          
-          
-          
-          
-          
-  
+## 🛠️ Technologies & Tools
+
+### 💻 Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nextjs,html,css,tailwind" alt="Software development technologies" />
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb" alt="Data science and database technologies" />
+</p>
+
+### 🧠 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning frameworks" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,selenium,postman" alt="Development tools and platforms" />
+</p>
+
+### 📚 Other Languages & Technologies
+
+C · PHP · Swagger · Windows · macOS
+
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lsarai23&show_icons=true&theme=transparent&hide_border=true" alt="Lucas's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsarai23&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lsarai23&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lsarai23&theme=flat&no-frame=true&column=6" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in exchanging ideas, learning from other developers, and contributing to meaningful projects.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-pires-de-camargo-sarai-9439432a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:sarai.pc.lucas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://hits.sh/github.com/Lsarai23.svg?label=Profile%20Views&logo=github" alt="Profile views" />
+</p>
